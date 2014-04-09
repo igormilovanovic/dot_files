@@ -217,5 +217,3 @@ set scrolloff=3
 " autocompletion of files and commands behaves like shell
 " (complete only the common part, list the options that match)
 set wildmode=list:longest
-
-
